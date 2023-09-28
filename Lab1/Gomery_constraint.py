@@ -67,6 +67,7 @@ def method_Gomery_constraint(matrix_a, vector_b, vector_c):
     vector_b.append(get_frac(x_fractional))
     print(matrix_a, vector_b)
     print('---------------------------------')
+    
     return method_Gomery_constraint(matrix_a, vector_b, vector_c)
 
 
