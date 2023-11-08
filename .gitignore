@@ -5,3 +5,7 @@ Lab1/venv/*
 Lab2/.idea/*
 Lab2/__pycache__/*
 Lab2/venv/*
+
+Lab3/.idea/*
+Lab3/__pycache__/*
+Lab3/env/*
