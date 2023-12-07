@@ -1,5 +1,6 @@
 from knapsack_problem import solve
 
+
 if __name__ == '__main__':
     print(solve(
         volumes=[3, 4, 5, 8, 9],
